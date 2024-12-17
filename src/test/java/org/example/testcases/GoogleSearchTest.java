@@ -1,6 +1,6 @@
 package org.example.testcases;
 
-import org.example.pom.pages.SearchPage;
+import org.example.pom.pages.pf.SearchPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
